@@ -1,6 +1,5 @@
 package com.elkin.springbootserviciosproductos.controller;
 
-import com.elkin.springbootserviciosproductos.models.dao.ProductoDao;
 import com.elkin.springbootserviciosproductos.models.entity.Producto;
 import com.elkin.springbootserviciosproductos.models.service.IProductoService;
 import org.springframework.beans.factory.annotation.Autowired;
