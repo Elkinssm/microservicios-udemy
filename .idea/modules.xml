@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MIcroservicios-Udemy.iml" filepath="$PROJECT_DIR$/.idea/MIcroservicios-Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-server/spring-boot-eureka-server.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-server/spring-boot-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-servicio-gateway-server/springboot-servicio-gateway-server.iml" filepath="$PROJECT_DIR$/springboot-servicio-gateway-server/springboot-servicio-gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-servicio-item/springboot-servicio-item.iml" filepath="$PROJECT_DIR$/springboot-servicio-item/springboot-servicio-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-servicios-productos/springboot-servicios-productos.iml" filepath="$PROJECT_DIR$/springboot-servicios-productos/springboot-servicios-productos.iml" />
+    </modules>
+  </component>
+</project>
