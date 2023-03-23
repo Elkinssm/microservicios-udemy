@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/spring-boot-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-servicio-config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-servicio-gateway-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-servicio-item/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-servicio-item/src/main/resources" charset="UTF-8" />

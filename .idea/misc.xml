@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/spring-boot-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-servicios-productos/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-servicio-gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-servicio-config-server/pom.xml" />
       </list>
     </option>
   </component>
