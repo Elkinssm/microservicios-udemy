@@ -1,0 +1,13 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+spring:
+  application:
+    name: servicio-items
+  cloud:
+    config:
+      uri: http://localhost:8888
+  profiles:
+    active: dev
