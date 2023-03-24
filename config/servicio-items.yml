@@ -1,4 +1,8 @@
 configuracion:
+<<<<<<< HEAD
   texto: Configurando ambiente por defecto
+=======
+  texto: Configurando ambiente de desarrollo
+>>>>>>> 9b393c0ba2937e06fa9df82ff1825f76372c4e60
 server:
   port: 8005
