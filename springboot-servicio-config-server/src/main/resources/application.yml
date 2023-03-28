@@ -1,3 +1,5 @@
+server:
+  port: 8888
 spring:
   application:
     name: config-server
@@ -5,6 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: file:///D:/microservicios-udemy/config
-server:
-  port: 8888
+          uri: https://github.com/Elkinssm/config-microservicios-udemy

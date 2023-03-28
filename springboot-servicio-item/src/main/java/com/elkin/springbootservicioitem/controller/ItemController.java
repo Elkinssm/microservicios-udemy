@@ -1,4 +1,4 @@
-package com.formacionbdi.springboot.app.item.controllers;
+package com.elkin.springbootservicioitem.controller;
 
 import java.util.HashMap;
 import java.util.List;
@@ -42,7 +42,6 @@ public class ItemController {
         return itemService.findAll();
     }
 
-//    @HystrixCommand(fallbackMethod = "metodoAlternativo")
     @GetMapping("/ver/{id}/cantidad/{cantidad}")
     public Item detalle(@PathVariable Long id, @PathVariable Integer cantidad) {
         return itemService.findById(id, cantidad);
